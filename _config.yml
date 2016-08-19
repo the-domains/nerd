@@ -1,0 +1,14 @@
+layout_spectrum: 0.037000532960519195
+typography_spectrum: 0.005439902655780315
+color:
+  brandStrength: 0.951472967164591
+  lightness: 0.8575973415281624
+  saturation: 0.6044431296177208
+  rhythmicContrast: 0.12962075299583375
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Nerd
